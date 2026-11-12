@@ -28,8 +28,20 @@ h1 {
 
 /* computer */
 @media screen and (min-width: 600px) {
-
-
-
 }
 
+.nav{display:flex;
+justify-content: center;}
+
+.firstrow{
+display:flex;
+justify-content:center;
+}
+.secondrow{
+display:flex;
+justify-content:center;
+}
+.thirdrow{
+display:flex;
+justify-content:center;
+}
